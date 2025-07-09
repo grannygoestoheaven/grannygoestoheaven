@@ -1,0 +1,1 @@
+### After obtaining my Data Science & AI certification at Le Wagon Paris in summer 2024, I greatly refined my skills through a personal AI and Text-to-Speech oriented project, whose main goal is the effective integration of information, through an immersive and controlled auditory experience.
