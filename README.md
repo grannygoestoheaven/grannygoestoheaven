@@ -1,5 +1,5 @@
 # ABOUT ME 🤝
-### Junior AI integration engineer/MLOps, songwriter, and filmmaker.
+### Junior AI integration engineer/MLOps, songwriter and filmmaker.
 
 ### I live for research, discovery and the transmission of knowledge.
 
