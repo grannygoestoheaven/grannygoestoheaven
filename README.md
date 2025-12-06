@@ -1,5 +1,5 @@
 # ABOUT ME 🤝
-### AI integration Engineer/FullStack Developer, songwriter and filmmaker.
+### AI integration Engineer/FullStack Developer - (songwriter and filmmaker).
 
 ### I live for research, discovery and the transmission of knowledge.
 
