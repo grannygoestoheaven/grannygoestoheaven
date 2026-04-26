@@ -1,5 +1,5 @@
 # ABOUT ME 🤝
-## AI integration Engineer/FullStack Developer.
+## FullStack Developer/AI integration.
 
 ## I live for research, discovery and the transmission of knowledge.
 
