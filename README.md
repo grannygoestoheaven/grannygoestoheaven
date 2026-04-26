@@ -5,4 +5,4 @@
 
 ### After a few years of coding practice and obtaining my Data Science & AI certification at Le Wagon Paris in summer 2024, I greatly refined my skills working on 'teller', an AI and Text-to-Speech project whose main goal is attentive listening and discovery, through an immersive auditory experience.
 
-Test the first teller demo here --> https://tellercontainerc73fsqdz-container-flamboyant-curran.functions.fnc.fr-par.scw.cloud <-- :)
+Test the first teller demo here: https://tellercontainerc73fsqdz-container-flamboyant-curran.functions.fnc.fr-par.scw.cloud
