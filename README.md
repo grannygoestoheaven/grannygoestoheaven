@@ -1,7 +1,7 @@
 # ABOUT ME 🤝
 ## FullStack Developer/AI integration.
 
-I can ship a project end to end. You can check out a demo of my first project following this presentation.
+I can ship a project end to end. You can check out a demo of my first project at the bottom of the page.
 
 ## I live for research, discovery and the transmission of knowledge.
 
