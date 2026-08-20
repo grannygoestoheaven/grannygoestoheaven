@@ -1,25 +1,22 @@
 # ABOUT ME 🤝
 ## FullStack Developer/AI integration.
 
-I can ship a project end to end. You can check out a demo of my first project at the bottom of the page.
+I can ship a project end to end. React/TS/JS - Python/Node - Docker - Cloud.  You can check out a demo of my first one, 'teller', at the bottom of the page.
 
-## I live for research, discovery and the transmission of knowledge.
+## I live for research, discovery and the transmission of knowledge. I'm working on the concept of **Dynamic Output** through my second project, tellerChat. A chatbot that natively integrate AI-adapted features, with an output customizable on the go.
 
 ## AI INTERACTIONS need to improve. Chatbots designs are full of friction. The technology is powerful, so should be the tools to interact with it. Ai-adapted UXs are yet to be made.
-
 ### The first objective is to break linearity.
 
-That is why I'm working on the concept of **Dynamic Output** through my second project, tellerChat. A chatbot that natively integrate AI-adapted features, with an output customizable on the go.
-
-## Stop prompting your needs. Instead, have the tools to do it under your fingertips. A few examples of things to do without prompting the model: 
+## Stop prompting your needs. have the tools to do it under your fingertips instead. A few examples of things to do without prompting the model: 
 
 - choose the response length
-- shorten or extend the response
-- bounce on words or concepts easily through intuitive and smooth highlighting features
+- shorten or extend it
+- bounce on words or concepts easily and side quest without losing main context
 - reformulate the response
 - change narrative approaches and so on.
 
-All of it happens **BEFORE** going to the next request. You clean and structure the work you're doing with AI at the time you do it, not after.
+All of it **BEFORE** going to the next request. You clean and structure the work you're doing with AI at the time you do it, not after.
 
 tellerChat demo is on the way. Stay tuned.
 
