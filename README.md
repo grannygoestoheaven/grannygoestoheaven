@@ -6,18 +6,18 @@
 ### AI INTERACTIONS need to improve. Chatbots designs are full of friction. The technology is powerful, so should be the tools to interact with it. Ai-adapted UXs are yet to be made.
 ### For that we need to break linearity.
 
-# The concept of dynamic output
+# The concept of Dynamic Output:
 
-## Stop prompting your needs. have the tools to do it under your fingertips instead. A few examples of things to do without prompting the model: 
+## Stop prompting your needs. Have the tools to do it under your fingertips instead. A few examples of things to do without prompting the LLM: 
 
-- choose the response length
+- Obtain your desired response length
 - shorten or extend it
 - bounce on words or concepts easily and side quest without losing main context
 - reformulate the response
 - change narrative approaches and so on.
 
 All of it **BEFORE** going to the next request. You clean and structure the work you're doing with AI at the time you do it, not after.
-f
+
 tellerChat demo is on the way. Stay tuned.
 
 --------
