@@ -1,14 +1,12 @@
 # ABOUT ME 🤝
-## FullStack Developer/AI integration - Research, discovery, transmission of knowledge. 
+## FullStack Developer/AI integration
 
-### I can ship a project end to end. React/TS/JS - Python/Node - Docker - Cloud.  You can check out a demo of my first application, 'teller', at the bottom of the page.
-
-# --- Work and Goals ---
+# Work and Goals
 
 ### AI INTERACTIONS need to improve. Chatbots designs are full of friction. The technology is powerful, so should be the tools to interact with it. Ai-adapted UXs are yet to be made.
 ### The first objective is to break linearity.
 
-## --- The concept of dynamic output ---
+## The concept of dynamic output
 
 ## Stop prompting your needs. have the tools to do it under your fingertips instead. A few examples of things to do without prompting the model: 
 
