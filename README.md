@@ -1,9 +1,9 @@
 # ABOUT ME 🤝
-## FullStack Developer/AI integration.
+## FullStack Developer/AI integration - Research, discovery, transmission of knowledge. 
 
-I can ship a project end to end. React/TS/JS - Python/Node - Docker - Cloud.  You can check out a demo of my first one, 'teller', at the bottom of the page.
+### I can ship a project end to end. React/TS/JS - Python/Node - Docker - Cloud.  You can check out a demo of my first one, 'teller', at the bottom of the page.
 
-## I live for research, discovery and the transmission of knowledge. I'm working on the concept of **Dynamic Output** through my second project, tellerChat. A chatbot that natively integrate AI-adapted features, with an output customizable on the go.
+I'm working on the concept of **Dynamic Output** through my second project, tellerChat. A chatbot that natively integrate AI-adapted features, with an output customizable on the go.
 
 ## AI INTERACTIONS need to improve. Chatbots designs are full of friction. The technology is powerful, so should be the tools to interact with it. Ai-adapted UXs are yet to be made.
 ### The first objective is to break linearity.
