@@ -1,24 +1,14 @@
 # ABOUT ME 🤝
 ## FullStack Developer/AI integration
 
-# Work and Goals
+I'm building tools that make AI interactions 10x faster by breaking linear chatbot friction.
+Today's chatbots haven't evolve much; they're still linear and pretty wasteful.
 
-### AI INTERACTIONS need to improve. Chatbots designs are full of friction. The technology is powerful, so should be the tools to interact with it. Ai-adapted UXs are yet to be made.
-### For that we need to break linearity.
-
-# The concept of Dynamic Output:
-
-## Stop prompting your needs. Have the tools to do it under your fingertips instead. A few examples of things to do without prompting the LLM: 
-
-- Obtain your desired response length
-- shorten or extend it
-- bounce on words or concepts easily and side quest without losing main context
-- reformulate the response
-- change narrative approaches and so on.
-
-All of it **BEFORE** going to the next request. You clean and structure the work you're doing with AI at the time you do it, not after.
-
-tellerChat demo is on the way. Stay tuned.
+The solution? Dynamic Output. A paradigm shift for AI UX:
+No more re-prompting: Adjust response length, reformulate, or pivot context in real-time.
+No more clutter: Clean and structure outputs as you work, not after.
+No more friction: Tools at your fingertips, not buried in prompts.
+Demo coming soon.
 
 --------
 
