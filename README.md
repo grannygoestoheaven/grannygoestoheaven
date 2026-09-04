@@ -1,5 +1,5 @@
 # ABOUT ME 🤝
-## FullStack Developer/AI integration
+## FullStack Developer/AI interactions
 
 ## I'm building tools that make AI interactions 10x faster by breaking linear chatbot friction.
 
