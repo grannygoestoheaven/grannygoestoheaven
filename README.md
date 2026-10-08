@@ -7,3 +7,4 @@
 The idea: stop prompting all your recurrent needs and clean your output on the go. Adjust response length, bounce on words or concepts 10 times faster, reformulate or pivot context in real-time, thanks to ai-adapted features, right under your fingers.
 
 ### - First projet: teller. An Ai + Tts narrative machine for immersive learning and exploration via audio.
+test the demo here: https://telleroct8th84afbabf-container-admiring-cerf.functions.fnc.fr-par.scw.cloud
